@@ -6,4 +6,5 @@ import (
 func main() {
 	var a bool
 	fmt.Println(a)
+
 }
